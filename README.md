@@ -6,9 +6,6 @@
 | [2](./Aula%202/) | 29/08 | **Introdução à IA** |  Agentes Inteligentes <br/>[Aula 2.0](./Aula%202/Aula%202.0%20-%20Agentes%20Inteligentes.pdf)  | &nbsp;|
 | [3](./Aula%203/) | 02/09 | **Revisão de Conteúdo** |  Estruturas de Dados em Python <br/>(Listas, Tuplas, Dicionários e Conjuntos) <br/>[Aula 3.0](./Aula%203/Aula%203.0%20-%20Estrutura%20de%20dados%20em%20Python.pdf)  | [Atividade 1](./Aula%203/Atividade%201%20-%20Revis%C3%A3o%20Progama%C3%A7%C3%A3o.pdf) |
 
-
-## Documentos
-
 ## Bibliografia Básica e Complementar
 
 - LINDEN, R. Algoritmos genéticos: uma importante ferramenta da Inteligência computacional. 2. ed. Rio de Janeiro: Brasport, 2008.
