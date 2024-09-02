@@ -4,7 +4,7 @@
 |:--:|:--:|-------|--------|--------|
 | [1](./Aula%201/) | 26/08 | **Apresentação da disciplina e Introdução à IA** | [Aula 1.0](./Aula%201/Aula%201.0%20-%20Apresentacao.pdf), [Aula 1.1](./Aula%201/Aula%201.1%20-%20Introducao%20a%20IA.pdf)| &nbsp;|
 | [2](./Aula%202/) | 29/08 | **Introdução à IA** |  Agentes Inteligentes <br/>[Aula 2.0](./Aula%202/Aula%202.0%20-%20Agentes%20Inteligentes.pdf)  | &nbsp;|
-| [3](./Aula%203/) | 02/09 | **Revisão de Conteúdo** |  Estruturas de Dados em Python <br/>(Listas, Tuplas, Dicionários e Conjuntos) <br/>[Aula 3.0]()  | [Atividade 1](./Aula%203/Atividade%201%20-%20Revis%C3%A3o%20Progama%C3%A7%C3%A3o.pdf) |
+| [3](./Aula%203/) | 02/09 | **Revisão de Conteúdo** |  Estruturas de Dados em Python <br/>(Listas, Tuplas, Dicionários e Conjuntos) <br/>[Aula 3.0](./Aula%203/Aula%203.0%20-%20Estrutura%20de%20dados%20em%20Python.pdf)  | [Atividade 1](./Aula%203/Atividade%201%20-%20Revis%C3%A3o%20Progama%C3%A7%C3%A3o.pdf) |
 
 
 ## Documentos
