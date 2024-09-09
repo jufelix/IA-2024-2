@@ -8,6 +8,8 @@ Disciplina de Inteligência Artificial ministrada na Pontifícia Universidade Ca
 | [2](./Aula%202/) | 29/08 | **Introdução à IA** |  Agentes Inteligentes <br/>[Aula 2.0](./Aula%202/Aula%202.0%20-%20Agentes%20Inteligentes.pdf)  | &nbsp;|
 | [3](./Aula%203/) | 02/09 | **Revisão de Conteúdo** |  Estruturas de Dados em Python <br/>(Listas, Tuplas, Dicionários e Conjuntos) <br/>[Aula 3.0](./Aula%203/Aula%203.0%20-%20Estrutura%20de%20dados%20em%20Python.pdf)  | [Atividade 1](./Aula%203/Atividade%201%20-%20Revis%C3%A3o%20Progama%C3%A7%C3%A3o.pdf) |
 | [4](./Aula%204/) | 05/09 | **Conceitos Básicos** |   Conceitos Básicos de Geometria Analítica <br/>[Aula 4.0](./Aula%204/Aula%204.0%20-%20Geometria%20Anal%C3%ADtica.pdf)  | |
+| [5](./Aula%205/) | 09/09 | **Introdução à ML** |   Visão Geral de ML, Introdução a Regressão Linear <br/>[Aula 5.0](./), [Aula 5.1](./) | |
+
 
 ## Bibliografia Básica e Complementar
 
