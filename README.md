@@ -8,7 +8,10 @@ Disciplina de Inteligência Artificial ministrada na Pontifícia Universidade Ca
 | [2](./Aula%202/) | 29/08 | **Introdução à IA** |  Agentes Inteligentes <br/>[Aula 2.0](./Aula%202/Aula%202.0%20-%20Agentes%20Inteligentes.pdf)  | &nbsp;|
 | [3](./Aula%203/) | 02/09 | **Revisão de Conteúdo** |  Estruturas de Dados em Python <br/>(Listas, Tuplas, Dicionários e Conjuntos) <br/>[Aula 3.0](./Aula%203/Aula%203.0%20-%20Estrutura%20de%20dados%20em%20Python.pdf)  | [Atividade 1](./Aula%203/Atividade%201%20-%20Revis%C3%A3o%20Progama%C3%A7%C3%A3o.pdf) |
 | [4](./Aula%204/) | 05/09 | **Conceitos Básicos** |   Conceitos Básicos de Geometria Analítica <br/>[Aula 4.0](./Aula%204/Aula%204.0%20-%20Geometria%20Anal%C3%ADtica.pdf)  | |
-| [5](./Aula%205/) | 09/09 | **Introdução à ML** |   Visão Geral de ML, Introdução a Regressão Linear <br/>[Aula 5.0](./Aula%205/Aula%205.0%20-%20Introducao%20a%20ML.pdf), [Aula 5.1](./Aula%205/Aula%205.1%20-%20Regress%C3%A3o%20Linear.pdf) | |
+| [5](./Aula%205/) | 09/09 | **Introdução à ML** |   Visão Geral de ML, Introdução a Regressão Linear <br/>[Aula 5.0](./Aula%205/Aula%205.0%20-%20Introducao%20a%20ML.pdf), [Aula 5.1](./Aula%205/Aula%205.1%20-%20Regressa%CC%83o%20Linear.pdf) | |
+| [6](./Aula%206/) | 12/09 | **Regressão Linear** |   Regressão Linear <br/>[Aula 6.0](./Aula%206/Aula%206.0%20-%20Regress%C3%A3o%20Linear%20e%20Gradiente%20Descendente.pdf) | [Atividade 2](./Aula%206/Atividade%202-%20Regressa%CC%83o%20Linear.pdf) |
+
+
 
 
 ## Bibliografia Básica e Complementar
