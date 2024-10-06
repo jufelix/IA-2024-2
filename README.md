@@ -1,4 +1,5 @@
-# IA-2024-2
+## IA-2024-2
+# Este repositório não está mais sendo mantido. Todo o material está sendo disponibilizado através do portal da disciplina no Teams.
 
 Disciplina de Inteligência Artificial ministrada na Pontifícia Universidade Católica de Goiás (PUC-GO) no semestre 2024-2 para o curso de Ciência de Dados.
 
